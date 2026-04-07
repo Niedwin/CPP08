@@ -6,13 +6,12 @@
 /*   By: guviure <guviure@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/03/30 19:17:26 by guviure           #+#    #+#             */
-/*   Updated: 2026/03/30 19:20:29 by guviure          ###   ########.fr       */
+/*   Updated: 2026/04/07 14:57:49 by guviure          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "easyfind.hpp"
 
-#include <iostream>
 #include <vector>
 #include <list>
 
